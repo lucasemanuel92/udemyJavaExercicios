@@ -5,9 +5,9 @@ Fundamentos
 
 1 - Criar um programa que leia a temperatura em Fahrenheit e converta para Celsius.  (Conversao1)
 
-2 - Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit.
+2 - Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit.  (TemperaturaFahrenheit)
 
-3 - Criar um programa que leia o peso e a altura do usuário e imprima no console o IMC.
+3 - Criar um programa que leia o peso e a altura do usuário e imprima no console o IMC. (IMC)
 
 4 - Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.
 
