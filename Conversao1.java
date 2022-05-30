@@ -2,7 +2,7 @@ package exerciciosFundamentos;
 
 import java.util.Scanner;
 
-public class Conversao1 {
+public class TemperaturaFahrenheit {
 	public static void main(String[] args) {
 		
 		Scanner entrada = new Scanner(System.in);
@@ -10,10 +10,10 @@ public class Conversao1 {
 		System.out.println("Qual a temperatura em Fahrenheit?");
 		double temp = entrada.nextDouble();
 		
-		//Convers„o 
+		//Convers√£o 
 		double conversao = (temp - 32) / 1.8;
 		
-		System.out.println("A temperatura em Celsius È: " + conversao);
+		System.out.println("A temperatura em Celsius √©: " + conversao);
 		
 		entrada.close();
 		
