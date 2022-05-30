@@ -3,7 +3,7 @@ Exercicios Propostos no fim dos capítulos do curso de Java.
 
 Fundamentos
 
-1 - Criar um programa que leia a temperatura em Fahrenheit e converta para Celsius.  (Conversao1)
+1 - Criar um programa que leia a temperatura em Fahrenheit e converta para Celsius.  (TemperaturaCelsius)
 
 2 - Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit.  (TemperaturaFahrenheit)
 
