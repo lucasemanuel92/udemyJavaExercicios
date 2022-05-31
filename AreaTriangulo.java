@@ -13,7 +13,7 @@ public class AreaTriangulo {
 		
 		double area = (base * altura) / 2;
 		
-		JOptionPane.showMessageDialog(null, "A ·rea do tri‚ngulo È: " + area);
+		JOptionPane.showMessageDialog(null, "A √°rea do tri√¢ngulo √©: " + area);
 
 		
 		
@@ -21,3 +21,4 @@ public class AreaTriangulo {
 	}
 
 }
+// Um programa que leia a base e altura e calcule a √°rea de um tri√¢ngulo
